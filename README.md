@@ -1,2 +1,2 @@
 # hello-world
-My introduction to git where I learn to make a Repository!
+My introduction to GitHub where I learn to make a Repository!
